@@ -1,0 +1,34 @@
+window,scenario,rho,first
+AM 07-10,AHP baseline,1.0,10-1
+AM 07-10,Equal weights,0.942857142857143,10-1
+AM 07-10,coverage +20%,0.942857142857143,10-2
+AM 07-10,coverage -20%,0.942857142857143,10-1
+AM 07-10,speed +20%,1.0,10-1
+AM 07-10,speed -20%,1.0,10-1
+AM 07-10,variability +20%,0.942857142857143,10-1
+AM 07-10,variability -20%,0.942857142857143,10-2
+AM 07-10,SAW (AHP weights),0.942857142857143,10-1
+Midday 10-16,AHP baseline,1.0,10-2
+Midday 10-16,Equal weights,1.0,10-2
+Midday 10-16,coverage +20%,1.0,10-2
+Midday 10-16,coverage -20%,1.0,10-2
+Midday 10-16,speed +20%,1.0,10-2
+Midday 10-16,speed -20%,1.0,10-2
+Midday 10-16,variability +20%,1.0,10-2
+Midday 10-16,variability -20%,1.0,10-2
+Midday 10-16,SAW (AHP weights),0.7142857142857143,12-2
+PM 16-19,AHP baseline,1.0,10-2
+PM 16-19,Equal weights,1.0,10-2
+PM 16-19,coverage +20%,1.0,10-2
+PM 16-19,coverage -20%,0.942857142857143,10-2
+PM 16-19,speed +20%,1.0,10-2
+PM 16-19,speed -20%,1.0,10-2
+PM 16-19,variability +20%,1.0,10-2
+PM 16-19,variability -20%,1.0,10-2
+PM 16-19,SAW (AHP weights),0.7714285714285715,10-2
+AM 07-10,Walking 300 m,0.8857142857142858,10-2
+Midday 10-16,Walking 300 m,0.942857142857143,10-2
+PM 16-19,Walking 300 m,1.0,10-2
+AM 07-10,Walking 500 m,0.8285714285714287,10-1
+Midday 10-16,Walking 500 m,0.5428571428571429,12-2
+PM 16-19,Walking 500 m,0.942857142857143,10-2

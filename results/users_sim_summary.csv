@@ -1,0 +1,4 @@
+measure,static,dashboard,paired test
+"Unassisted task success, % (mean of participants)",45.8,83.3,Wilcoxon p = 0.010
+"Median task time, s (median of participants)",101,76,Wilcoxon p = 0.001
+"SUS score, mean (SD)",-,69.6 (10.1),target 70

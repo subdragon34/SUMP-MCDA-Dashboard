@@ -1,0 +1,7 @@
+,10-1,10-2,12-1,12-2,46-1,46-2
+1 trips in feed,3335,3145,2921,2229,3950,4189
+2 full endpoint-to-endpoint sequence,3055,1372,2401,981,2035,2413
+"3 non-negative, increasing times",2945,1315,2388,959,1991,2388
+4 weekday (excl. 30 Aug holiday),2114,923,1723,693,1411,1737
+5 on common weekdays,2113,923,1722,693,1411,1737
+6 departing in a study window,1643,808,1458,637,1283,1641

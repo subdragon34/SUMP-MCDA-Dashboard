@@ -1,0 +1,6 @@
+judge,coverage,speed,variability,lambda_max,CR
+S1 planner,0.54,0.297,0.163,3.009,0.008
+S2 operator,0.163,0.54,0.297,3.009,0.008
+S3 accessibility,0.625,0.136,0.238,3.018,0.016
+S4 reliability,0.21,0.24,0.55,3.018,0.016
+Aggregated (geometric mean),0.373,0.306,0.321,3.002,0.002

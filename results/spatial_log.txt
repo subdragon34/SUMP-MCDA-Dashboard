@@ -1,0 +1,4 @@
+OSM extraction: 2026-10-22 (Overpass API via OSMnx 2.0.7)
+stop pairs: 396; network path used for 392, straight line x 1.11 (median detour ratio) for 4
+residential buildings: 1781 features, 1761 unique points inside the 800 m study area
+building points resolved to the network (<=100 m): 1742 of 1761 (98.9%)

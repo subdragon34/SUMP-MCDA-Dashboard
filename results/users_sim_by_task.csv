@@ -1,0 +1,5 @@
+task,dashboard,static
+T1 weakest criterion,91.7,83.3
+T2 explain rank change,83.3,41.7
+T3 find data limitation,83.3,33.3
+T4 observed vs assumed,75.0,25.0

@@ -1,0 +1,97 @@
+pid,group,order,condition,task,success,time_s
+P01,experienced,dashboard first,static,T1 weakest criterion,0,73.4
+P01,experienced,dashboard first,static,T2 explain rank change,1,68.9
+P01,experienced,dashboard first,static,T3 find data limitation,0,82.5
+P01,experienced,dashboard first,static,T4 observed vs assumed,0,68.0
+P01,experienced,dashboard first,dashboard,T1 weakest criterion,1,70.6
+P01,experienced,dashboard first,dashboard,T2 explain rank change,1,61.7
+P01,experienced,dashboard first,dashboard,T3 find data limitation,1,58.9
+P01,experienced,dashboard first,dashboard,T4 observed vs assumed,1,37.2
+P02,experienced,table first,static,T1 weakest criterion,1,51.4
+P02,experienced,table first,static,T2 explain rank change,1,74.4
+P02,experienced,table first,static,T3 find data limitation,0,88.8
+P02,experienced,table first,static,T4 observed vs assumed,1,75.6
+P02,experienced,table first,dashboard,T1 weakest criterion,1,49.3
+P02,experienced,table first,dashboard,T2 explain rank change,1,61.9
+P02,experienced,table first,dashboard,T3 find data limitation,1,50.3
+P02,experienced,table first,dashboard,T4 observed vs assumed,1,44.8
+P03,experienced,dashboard first,static,T1 weakest criterion,1,79.8
+P03,experienced,dashboard first,static,T2 explain rank change,0,65.8
+P03,experienced,dashboard first,static,T3 find data limitation,1,83.9
+P03,experienced,dashboard first,static,T4 observed vs assumed,1,52.6
+P03,experienced,dashboard first,dashboard,T1 weakest criterion,1,95.7
+P03,experienced,dashboard first,dashboard,T2 explain rank change,1,80.4
+P03,experienced,dashboard first,dashboard,T3 find data limitation,1,47.5
+P03,experienced,dashboard first,dashboard,T4 observed vs assumed,1,77.7
+P04,experienced,table first,static,T1 weakest criterion,1,98.8
+P04,experienced,table first,static,T2 explain rank change,1,102.6
+P04,experienced,table first,static,T3 find data limitation,0,102.0
+P04,experienced,table first,static,T4 observed vs assumed,0,63.7
+P04,experienced,table first,dashboard,T1 weakest criterion,1,50.6
+P04,experienced,table first,dashboard,T2 explain rank change,1,39.3
+P04,experienced,table first,dashboard,T3 find data limitation,1,55.6
+P04,experienced,table first,dashboard,T4 observed vs assumed,1,88.8
+P05,experienced,dashboard first,static,T1 weakest criterion,1,101.3
+P05,experienced,dashboard first,static,T2 explain rank change,0,68.7
+P05,experienced,dashboard first,static,T3 find data limitation,1,125.4
+P05,experienced,dashboard first,static,T4 observed vs assumed,0,72.0
+P05,experienced,dashboard first,dashboard,T1 weakest criterion,1,54.5
+P05,experienced,dashboard first,dashboard,T2 explain rank change,1,51.2
+P05,experienced,dashboard first,dashboard,T3 find data limitation,1,67.3
+P05,experienced,dashboard first,dashboard,T4 observed vs assumed,0,55.5
+P06,experienced,table first,static,T1 weakest criterion,1,69.1
+P06,experienced,table first,static,T2 explain rank change,1,101.5
+P06,experienced,table first,static,T3 find data limitation,0,102.0
+P06,experienced,table first,static,T4 observed vs assumed,0,116.7
+P06,experienced,table first,dashboard,T1 weakest criterion,1,73.0
+P06,experienced,table first,dashboard,T2 explain rank change,1,67.2
+P06,experienced,table first,dashboard,T3 find data limitation,1,29.2
+P06,experienced,table first,dashboard,T4 observed vs assumed,1,43.4
+P07,regular user,dashboard first,static,T1 weakest criterion,0,81.7
+P07,regular user,dashboard first,static,T2 explain rank change,0,117.4
+P07,regular user,dashboard first,static,T3 find data limitation,0,102.7
+P07,regular user,dashboard first,static,T4 observed vs assumed,0,139.7
+P07,regular user,dashboard first,dashboard,T1 weakest criterion,1,56.1
+P07,regular user,dashboard first,dashboard,T2 explain rank change,1,81.5
+P07,regular user,dashboard first,dashboard,T3 find data limitation,0,88.2
+P07,regular user,dashboard first,dashboard,T4 observed vs assumed,1,113.1
+P08,regular user,table first,static,T1 weakest criterion,1,88.8
+P08,regular user,table first,static,T2 explain rank change,0,54.3
+P08,regular user,table first,static,T3 find data limitation,1,124.0
+P08,regular user,table first,static,T4 observed vs assumed,0,146.9
+P08,regular user,table first,dashboard,T1 weakest criterion,1,104.9
+P08,regular user,table first,dashboard,T2 explain rank change,1,105.7
+P08,regular user,table first,dashboard,T3 find data limitation,1,47.0
+P08,regular user,table first,dashboard,T4 observed vs assumed,1,133.3
+P09,regular user,dashboard first,static,T1 weakest criterion,1,103.3
+P09,regular user,dashboard first,static,T2 explain rank change,0,160.5
+P09,regular user,dashboard first,static,T3 find data limitation,0,107.3
+P09,regular user,dashboard first,static,T4 observed vs assumed,0,87.8
+P09,regular user,dashboard first,dashboard,T1 weakest criterion,1,125.0
+P09,regular user,dashboard first,dashboard,T2 explain rank change,1,112.9
+P09,regular user,dashboard first,dashboard,T3 find data limitation,1,63.1
+P09,regular user,dashboard first,dashboard,T4 observed vs assumed,0,66.2
+P10,regular user,table first,static,T1 weakest criterion,1,98.4
+P10,regular user,table first,static,T2 explain rank change,1,82.4
+P10,regular user,table first,static,T3 find data limitation,1,86.4
+P10,regular user,table first,static,T4 observed vs assumed,0,122.9
+P10,regular user,table first,dashboard,T1 weakest criterion,1,48.4
+P10,regular user,table first,dashboard,T2 explain rank change,0,64.5
+P10,regular user,table first,dashboard,T3 find data limitation,0,104.1
+P10,regular user,table first,dashboard,T4 observed vs assumed,0,82.5
+P11,regular user,dashboard first,static,T1 weakest criterion,1,90.5
+P11,regular user,dashboard first,static,T2 explain rank change,0,74.1
+P11,regular user,dashboard first,static,T3 find data limitation,0,174.4
+P11,regular user,dashboard first,static,T4 observed vs assumed,0,121.0
+P11,regular user,dashboard first,dashboard,T1 weakest criterion,0,69.0
+P11,regular user,dashboard first,dashboard,T2 explain rank change,0,100.4
+P11,regular user,dashboard first,dashboard,T3 find data limitation,1,76.3
+P11,regular user,dashboard first,dashboard,T4 observed vs assumed,1,121.5
+P12,regular user,table first,static,T1 weakest criterion,1,89.7
+P12,regular user,table first,static,T2 explain rank change,0,152.3
+P12,regular user,table first,static,T3 find data limitation,0,104.0
+P12,regular user,table first,static,T4 observed vs assumed,1,143.6
+P12,regular user,table first,dashboard,T1 weakest criterion,1,111.1
+P12,regular user,table first,dashboard,T2 explain rank change,1,136.8
+P12,regular user,table first,dashboard,T3 find data limitation,1,108.8
+P12,regular user,table first,dashboard,T4 observed vs assumed,1,109.3
